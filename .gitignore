@@ -1,0 +1,14 @@
+.nuget/
+.vs/
+[Bb]in/
+[Oo]bj/
+artifacts/
+packages/
+
+
+*.suo
+*.user
+
+_ReSharper*
+*.ncrunch*
+.*crunch*.local.xml
